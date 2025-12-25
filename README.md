@@ -27,7 +27,7 @@
 
 ## 🌐 Let’s Connect
 
-- 🌍 Website: *Coming soon*
+- 🌍 Website: https://randila.space
 - ✉️ Email: randila.dev@outlook.com
 
 ---
